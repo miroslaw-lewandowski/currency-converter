@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    font-size: 30px;
+    color: coral;
+    background-color: black;
+}
