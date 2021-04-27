@@ -2,6 +2,9 @@
 
 It is a simple application to convert PLN to other currencies.
 
+## Demo
+https://miroslaw-lewandowski.github.io/currency-converter/
+
 ## Instuctions for use:
 - Enter the amount in PLN that you intend to exchange.
 - Choose from 3 ( EUR, USD, GBP ) currencies to which you want to exchange your PLN.
