@@ -1,8 +1,7 @@
 .header {
     text-align: center;
-    width: 100%;
-    max-width: 400px;
-    margin: auto;
+    flex-basis: 700px;
+    margin: 20px;
     font-size: 30px;
     color: coral;
     background-color: black;
